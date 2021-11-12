@@ -5,9 +5,11 @@
   <a href="https://instagram.com/gabrielmedeirosg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <div align="left">
   <a href="https://github.com/codinginrainbows">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
 <div style="display: inline_block"><br>
