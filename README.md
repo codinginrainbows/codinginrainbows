@@ -1,6 +1,6 @@
 ## How's it going! I'm Gabriel 👋
 
-<p>Programming enthusiast passionate about Second Language Acquisition. Likewise, I'm also genuinely interested in AI, more specifically in Natural Language Processing, which I plan to study in the near future. At the moment, I'm 100% focused on Web Development and its current top technologies.</p><br>
+<p>Programming enthusiast passionate about Second Language Acquisition. Likewise, I'm also genuinely interested in AI, more specifically in Natural Language Processing, which I plan to study in the near future. At the moment, I'm 100% focused on Web Development and its current top technologies.</p>
 
 # ✉️ Contact
 
