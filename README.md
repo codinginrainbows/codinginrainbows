@@ -7,7 +7,7 @@
 
 <div align="right">
   <a href="https://github.com/codinginrainbows">
-  <img height="180em" width="800px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
   ##
