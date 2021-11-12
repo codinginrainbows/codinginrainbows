@@ -1,5 +1,5 @@
 <div style="display: flex"> 
-  <p style="font-size: 20px">How's it going, I'm Gabriel! 👋</p>
+  <p style="font-size: 20em">How's it going, I'm Gabriel! 👋</p>
   <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/gabrielmedeirosg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
