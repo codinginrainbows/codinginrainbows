@@ -5,7 +5,7 @@
   <a href="https://instagram.com/gabrielmedeirosg" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-<div align="left">
+<div align="right">
   <a href="https://github.com/codinginrainbows">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
