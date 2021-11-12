@@ -1,7 +1,7 @@
 # How's it going, I'm Gabriel! 👋
 
--- Passionate about coding
--- Language enthusiast 🇫🇷
+- Passionate about coding
+- Language enthusiast 🇫🇷
 
   # ✉️ Contact
 
