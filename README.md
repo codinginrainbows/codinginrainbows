@@ -1,6 +1,6 @@
 ## How's it going! I'm Gabriel 👋
 
-<p>Programming enthusiast passionate about Second Language Acquisition and 100% focused on sharpening my front-end skills through its current top technologies.</p>
+<p>Programming enthusiast passionate about Second Language Acquisition. At the moment, I'm 100% focused on sharpening my front-end skills through its current top technologies.</p>
 
 # ✉️ Contact
 
