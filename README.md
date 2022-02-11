@@ -11,12 +11,12 @@
   <a href = "https://twitter.com/codinginrainbow" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue" target="_blank"></a>
 </div><br>
 
-## 📉 Stats
+# 📉 ## Stats
 
 <div align="left">
   <a href="https://github.com/codinginrainbows">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+</div><br>
   
 ## 🧰 Technologies
   
