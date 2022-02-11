@@ -2,7 +2,7 @@
 
 <p>Programming enthusiast passionate about Second Language Acquisition. At the moment, I'm 100% focused on sharpening my front-end skills through its current top technologies.</p>
 
-## ✉️ Contact
+# ✉️ Contact
 
 <div> 
   <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" target="_blank"></a>
@@ -11,14 +11,14 @@
   <a href = "https://twitter.com/codinginrainbow" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue" target="_blank"></a>
 </div><br>
 
-# 📉 ## Stats
+# 📉 Stats
 
 <div align="left">
   <a href="https://github.com/codinginrainbows">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br>
   
-## 🧰 Technologies
+# 🧰 Technologies
   
 <div style="display: inline_block">
   <img align="center" alt="Gabriel-Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
