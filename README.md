@@ -5,7 +5,7 @@
 # ✉️ Contact
 
 <div> 
-  <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" target="_blank"></a>
+  <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-yellow" target="_blank"></a>
   <a href="https://instagram.com/gabrielmedeirosg" target="_blank"><img src="https://img.shields.io/badge/-Insta-pink" target="_blank"></a>
   <a href = "https://br.pinterest.com/innerspeaker12" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-red" target="_blank"></a>
   <a href = "https://twitter.com/codinginrainbow" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue" target="_blank"></a>
