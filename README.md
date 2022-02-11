@@ -18,7 +18,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br>
   
-## Technologies 🧰
+## 🧰 Technologies 🧰
   
 <div style="display: inline_block">
   <img align="center" alt="Gabriel-Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
