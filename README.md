@@ -16,7 +16,7 @@
 <div align="left">
   <a href="https://github.com/codinginrainbows">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
-</div><br>
+</div>
   
 ## 🧰 Technologies
   
