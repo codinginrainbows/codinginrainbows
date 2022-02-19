@@ -1,6 +1,6 @@
 ## How's it going! I'm Gabriel 👋
 
-<p>• 🎨 Sharpening my front-end skills everyday through its current top technologies</p>
+<p>• 🎨 Sharpening my Front-end skills everyday through its current top technologies</p>
 <p>• 🔭 Node.js is my next step</p>
 <p>• 💖 Passionate about Second Language Acquisition.</p>
 
