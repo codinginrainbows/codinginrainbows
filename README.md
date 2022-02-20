@@ -8,9 +8,9 @@
 
 <div> 
   <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-yellow"></a>
-  <a href= "https://instagram.com/gabrielmedeirosg" target="_blank"><img src="https://img.shields.io/badge/-Insta-pink"></a>
-  <a href = "https://br.pinterest.com/innerspeaker12" target="_blank"><img src="https://img.shields.io/badge/-Pinterest-red"></a>
-  <a href = "https://twitter.com/codinginrainbows" target="_blank"><img src="https://img.shields.io/badge/-Twitter-blue"></a>
+  <a href= "https://instagram.com/"><img src="https://img.shields.io/badge/-Insta-pink"></a>
+  <a href = "https://br.pinterest.com/innerspeaker12"><img src="https://img.shields.io/badge/-Pinterest-red"></a>
+  <a href = "https://twitter.com/codinginrainbows"><img src="https://img.shields.io/badge/-Twitter-blue"></a>
 </div><br>
 
 # 📉 Stats
