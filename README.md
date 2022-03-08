@@ -1,9 +1,9 @@
 ![figcompresso](https://user-images.githubusercontent.com/82886646/157317957-b9768223-15f5-4b8f-9556-08c09364c9d0.gif)
 
-<p>• 🎓 Undergraduate student in Systems Analysis and Development at IFRS</p>
-<p>• 🎨 Sharpening my Front-end skills everyday through its current top technologies</p>
-<p>• 🔭 Node.js is my next step</p>
-<p>• 💖 Passionate about Second Language Acquisition.</p>
+- 🎓 Undergraduate student in Systems Analysis and Development at IFRS</p>
+- 🎨 Sharpening my Front-end skills everyday through its current top technologies</p>
+- 🔭 Node.js is my next step</p>
+- 💖 Passionate about Second Language Acquisition.</p>
 
 # ✉️ Contact
 
