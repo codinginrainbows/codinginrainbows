@@ -1,4 +1,4 @@
-![figcompresso](https://user-images.githubusercontent.com/82886646/157317957-b9768223-15f5-4b8f-9556-08c09364c9d0.gif)
+![157317957-b9768223-15f5-4b8f-9556-08c09364c9d0 (1)](https://user-images.githubusercontent.com/82886646/157444364-61dff293-4fc3-43a2-9875-f980deec7ab4.gif)
 
 - 🎓 Undergraduate student in Systems Analysis and Development at IFRS</p>
 - 🎨 Sharpening my Front-end skills everyday through its current top technologies</p>
