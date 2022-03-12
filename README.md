@@ -14,11 +14,12 @@
 # ✉️ Contact
 
 <div> 
-  <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-yellow"></a>
-  <a href= "https://instagram.com/gabrielmedeirosg"><img src="https://img.shields.io/badge/-Insta-pink"></a>
-  <a href = "https://br.pinterest.com/innerspeaker12"><img src="https://img.shields.io/badge/-Pinterest-red"></a>
-  <a href = "https://twitter.com/codeinrainbows"><img src="https://img.shields.io/badge/-Twitter-blue"></a>
-  <a href = "https://open.spotify.com/user/gabrielgarcia96"><img src="https://img.shields.io/badge/-Spotify-green"></a>
+  <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-yellow" /a>
+  <a href= "https://instagram.com/gabrielmedeirosg"><img src="https://img.shields.io/badge/-Insta-pink" /a>
+  <a href = "https://br.pinterest.com/innerspeaker12"><img src="https://img.shields.io/badge/-Pinterest-red" /a>
+  <a href = "https://twitter.com/codeinrainbows"><img src="https://img.shields.io/badge/-Twitter-blue" /a>
+  <a href = "https://open.spotify.com/user/gabrielgarcia96"><img src="https://img.shields.io/badge/-Spotify-green" /a>
+  <a href = "https://dev.to/codinginrainbows"><img src="https://img.shields.io/badge/-Dev-violet" /a>
 </div><br>
 
 # 📉 Stats
