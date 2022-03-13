@@ -9,7 +9,7 @@
 
 - 🤖 Interested in AI – more specifically in Natural Language Processing
 
-- 💖 Multilingual person passionate about Second Language Acquisition
+- 💖 Multilingual person passionate about Language Learning
 
 # ✉️ Contact
 
