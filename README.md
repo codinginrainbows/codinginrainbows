@@ -15,7 +15,7 @@
 
 <div> 
   <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" /a>
-  <a href= "https://www.linkedin.com/in/gabrielgarc"><img src="https://img.shields.io/badge/-LinkedIn-blue" /a>
+  <a href= "https://www.linkedin.com/in/gabrielgarcia8953"><img src="https://img.shields.io/badge/-LinkedIn-blue" /a>
   <a href = "https://dev.to/codinginrainbows"><img src="https://img.shields.io/badge/-Dev-blueviolet" /a>
   <a href = "https://twitter.com/codeinrainbows"><img src="https://img.shields.io/badge/-Twitter-9cf" /a>
   <a href= "https://instagram.com/gabrielmedeirosg"><img src="https://img.shields.io/badge/-Insta-ff69b4" /a>
