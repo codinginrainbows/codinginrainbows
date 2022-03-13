@@ -5,13 +5,13 @@
 
 - 🎨 Currently sharpening my **Front-end** skills through the JAMstack
 
-- 🔭 My next step is Node.js
+- 🌱 My next step is Node.js
 
 - 🤖 Interested in AI – more specifically in Natural Language Processing
 
 - 💖 Multilingual person passionate about Language Learning
 
-# ✉️ Contact
+# ☎️ Find Me
 
 <div> 
   <a href = "mailto:gabrielmgarcia96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red" /a>
@@ -24,14 +24,14 @@
   
 </div><br>
 
-# 📊 Stats
+# 📊 Statistics
 
 <div align="left">
   <a href="https://github.com/codinginrainbows">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight"/>
 </div><br>
   
-# 🧰 Technologies
+# 🧰 Stack
  
 <div style="display: inline_block">
   <img align="center" alt="Gabriel-Java" height="25" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
