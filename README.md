@@ -24,7 +24,7 @@
   
 </div><br>
 
-# 📉 Stats
+# 📊 Stats
 
 <div align="left">
   <a href="https://github.com/codinginrainbows">
