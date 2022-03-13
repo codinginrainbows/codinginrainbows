@@ -3,7 +3,7 @@
 
 - 🎓 Undergraduate student in Systems Analysis and Development at IFRS.
 
-- 🎨 Sharpening my Front-end skills everyday through its current top technologies.
+- 🎨 Sharpening my **Front-end** skills everyday through its current top technologies.
 
 - 🔭 Node.js is my next step.
 
