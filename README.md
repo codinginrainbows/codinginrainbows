@@ -1,15 +1,15 @@
 ![headergithub8s](https://user-images.githubusercontent.com/82886646/157560561-b7ccb57a-16fa-4f65-beb3-1d1d6216e104.gif)
 
 
-- 🎓 Undergraduate student in Systems Analysis and Development at IFRS.
+- 🎓 Undergraduate student in Systems Analysis and Development at IFRS
 
-- 🎨 Sharpening my **Front-end** skills everyday through its current top technologies.
+- 🎨 Sharpening my **Front-end** skills everyday through the JAMstack
 
-- 🔭 Node.js is my next step.
+- 🔭 My next step is Node.js
 
-- 🤖 Interested in AI, more specifically in Natural Language Processing.
+- 🤖 Interested in AI – more specifically in Natural Language Processing
 
-- 💖 Passionate about Second Language Acquisition.
+- 💖 Multilingual passionate about Second Language Acquisition
 
 # ✉️ Contact
 
