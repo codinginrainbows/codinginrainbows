@@ -3,7 +3,7 @@
 
 - 🎓 Undergraduate student in Systems Analysis and Development at IFRS
 
-- 🎨 Currently sharpening my **Front-end** skills through the JAMstack
+- 🎨 Currently sharpening my **Front-end** skills through the <span style="color: #222;">JAMstack</span> with **React** & **Next.js**
 
 - 🌱 My next step is Node.js
 
