@@ -14,7 +14,7 @@
 # 📬 Find Me
 
 <div> 
-  <a href = "mailto:gabrielmgarcia96@gmail.com"><img height="26" src="https://img.shields.io/badge/Gmail-F7F7F7?style=for-the-badge&logo=gmail&logoColor=orange" /a>
+  <a href = "mailto:gabrielgarcia.contactme@gmail.com"><img height="26" src="https://img.shields.io/badge/Gmail-F7F7F7?style=for-the-badge&logo=gmail&logoColor=orange" /a>
   <a href = "https://www.linkedin.com/in/gabrielgarcia8953"><img height="26" src="https://img.shields.io/badge/LinkedIn-F7F7F7?style=for-the-badge&logo=linkedin&logoColor=blue" /a>
   <a href = "https://dev.to/codinginrainbows"><img height="26" src="https://img.shields.io/badge/dev.to-F7F7F7?style=for-the-badge&logo=dev.to&logoColor=black" /a>
   <a href = "https://stackoverflow.com/users/18466237/gabriel-garcia"><img height="26" src="https://img.shields.io/badge/Stack_Overflow-F7F7F7?style=for-the-badge&logo=stack-overflow&logoColor=orange" /a>
