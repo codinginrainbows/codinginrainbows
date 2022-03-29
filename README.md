@@ -5,7 +5,7 @@
 
 - 🎨 Always sharpening my **Front-end** skills through the JAMstack with **React** & **Next.js**
 
-- 📱 Currently practicing **React Native**; next step is to learn Node.js
+- 📱 Currently practicing **React Native** and **Node.js**
 
 - 🤖 Interested in AI – more specifically in Natural Language Processing
 
