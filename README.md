@@ -3,11 +3,9 @@
 
 - 🎓 Undergraduate student in Systems Analysis and Development at IFRS
 
-- 🎨 Sharpening my **Front-end** skills through the JAMstack with **React** + **Next.js**
+- 🎨 At the moment I hold a position of **Front-end** developer
 
-- 📱 Currently learning **React Native** and **Node.js**
-
-- 🤖 Interested in AI – more specifically in Natural Language Processing
+- 📱 Taking baby steps towards **React Native** and **Node.js**
 
 - 💖 Multilingual person passionate about Language Learning
 
