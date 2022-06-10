@@ -13,7 +13,7 @@
 
 <div> 
   <a href = "mailto:gabrielgarcia.contactme@gmail.com"><img height="26" src="https://img.shields.io/badge/Gmail-F7F7F7?style=for-the-badge&logo=gmail&logoColor=orange" /a>
-  <a href = "https://www.linkedin.com/in/gabriel-garcia-878929234/"><img height="26" src="https://img.shields.io/badge/LinkedIn-F7F7F7?style=for-the-badge&logo=linkedin&logoColor=blue" /a>
+  <a href = "https://www.linkedin.com/in/gabriel-garcia-878929234"><img height="26" src="https://img.shields.io/badge/LinkedIn-F7F7F7?style=for-the-badge&logo=linkedin&logoColor=blue" /a>
   <a href = "https://dev.to/codinginrainbows"><img height="26" src="https://img.shields.io/badge/dev.to-F7F7F7?style=for-the-badge&logo=dev.to&logoColor=black" /a>
   <a href = "https://stackoverflow.com/users/18466237/gabriel-garcia"><img height="26" src="https://img.shields.io/badge/Stack_Overflow-F7F7F7?style=for-the-badge&logo=stack-overflow&logoColor=orange" /a>
   <a href = "https://leetcode.com/codinginrainbows/"><img height="26" src="https://img.shields.io/badge/-LeetCode-F7F7F7?style=for-the-badge&logo=LeetCode&logoColor=orange" /a>
