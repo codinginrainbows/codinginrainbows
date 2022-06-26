@@ -5,7 +5,7 @@
 
 - 💻 At the moment I'm holding a position of **Front-end** developer
 
-- 📱 Taking baby steps towards **React Native** and **Node.js**
+- 📱 Taking baby steps towards **React Native**
 
 - 💖 Multilingual person passionate about Language Learning
 
