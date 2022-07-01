@@ -4,9 +4,9 @@
 - 🎓 Undergraduate student in Systems Analysis and Development at IFRS
 
 - 💻 At the moment I'm holding a position of **Front-end** developer
-<!---
-- 📱 Taking baby steps towards **React Native**
 
+- 📱 Taking baby steps towards **React Native**
+<!---
 - 💖 Multilingual person passionate about Language Learning
 -->
 # 📬 Find Me
@@ -28,9 +28,11 @@
 <div align="left">
   <a href="https://github.com/codinginrainbows">
     <img height="175em" src="https://github-readme-stats.vercel.app/api?username=codinginrainbows&count_private=true&theme=tokyonight" /> 
-    <!---
+   
+   <!---
     <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codinginrainbows&layout=compact&langs_count=7&theme=tokyonight" />  
     -->
+    
 </div><br>
   
 # 🚀 Stack
@@ -45,10 +47,13 @@
   <img align="center" alt="Gabriel-React" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gabriel-NextJS" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
   <img align="center" alt="Gabriel-JAMstack" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jamstack/jamstack-original.svg" />
+  
+  <!---
   <img align="center" alt="Gabriel-Node" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Gabriel-Yarn" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" />
   <img align="center" alt="Gabriel-VScode" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Gabriel-Figma" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Gabriel-Git" height="28" width="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Gabriel-Ubuntu" height="28" width="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  -->
 </div><br>
