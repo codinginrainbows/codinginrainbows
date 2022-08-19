@@ -4,6 +4,8 @@
 - 🎓 Undergraduate student in Systems Analysis and Development at IFRS
 
 - 💻 At the moment I'm holding a position of **Front-end** developer
+
+- 👨🏻‍💻 Taking baby steps towards **Node.js**
 <!---
 - 📱 Taking baby steps towards **React Native**
 
