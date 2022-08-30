@@ -6,6 +6,10 @@
 - 💻 At the moment I'm holding a position of **Front-end** developer
 
 - 👨🏻‍💻 Taking baby steps towards **Node.js**
+
+- 📱 Getting my feet wet in **Swift UI** with Stanford CS193p 
+
+- 💖 Multilingual person passionate about Language Learning
 <!---
 - 📱 Taking baby steps towards **React Native**
 
