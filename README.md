@@ -7,7 +7,7 @@
 
 - 👨🏻‍💻 Taking baby steps towards **Node.js**
 
-- 📱 Getting my feet wet in **Swift UI** with Stanford CS193p 
+- 📱 Getting my feet wet in **SwiftUI** with Stanford CS193p 
 
 - 💖 Multilingual person passionate about Language Learning
 <!---
