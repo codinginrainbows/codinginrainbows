@@ -7,10 +7,10 @@
 
 - 👨🏻‍💻 Taking baby steps towards **Node.js**
 
-- 📱 Getting my feet wet in **SwiftUI** with Stanford CS193p 
-
 - 💖 Multilingual person passionate about Language Learning
 <!---
+- 📱 Getting my feet wet in **SwiftUI** with Stanford CS193p 
+
 - 📱 Taking baby steps towards **React Native**
 
 - 💖 Multilingual person passionate about Language Learning
