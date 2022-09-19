@@ -5,15 +5,13 @@
 
 - 💻 At the moment I'm holding a position of **Front-end** developer
 
-- 👨🏻‍💻 Taking baby steps towards **Node.js**
-
 - 💖 Multilingual person passionate about Language Learning
 <!---
 - 📱 Getting my feet wet in **SwiftUI** with Stanford CS193p 
 
-- 📱 Taking baby steps towards **React Native**
+- 👨🏻‍💻 Taking baby steps towards **Node.js**
 
-- 💖 Multilingual person passionate about Language Learning
+- 📱 Taking baby steps towards **React Native**
 -->
 # 📬 Find Me
 
